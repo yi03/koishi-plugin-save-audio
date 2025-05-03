@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-save-audio?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-save-audio)
 
-一个 Koishi 插件，用于保存、管理和重新发送聊天中的语音消息。
+保存群聊的语音到本地以及发送本地的语音到群聊
 
 ## 🚀 使用方法
 
